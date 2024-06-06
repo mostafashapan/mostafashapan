@@ -52,3 +52,9 @@
 
 ## Where to find me  🚀
 
+<a href="https://www.linkedin.com/in/mostafa-shapan/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
+<a href="https://wa.me/201013120886" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp />
+</a>
