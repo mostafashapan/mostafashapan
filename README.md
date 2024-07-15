@@ -2,20 +2,20 @@
 
 ## Hi there! 👋 I'm Mostafa Shaban
 
-I'm a passionate Frontend Developer based in Egypt, specializing in creating dynamic and user-centric web applications. With a solid foundation in HTML, CSS, and JavaScript, I excel in frameworks like React.js and have experience with Bootstrap for responsive design. My expertise extends to TypeScript for scalable applications and Git for version control. I thrive on turning complex ideas into intuitive interfaces and enjoy collaborating to deliver exceptional user experiences.
+I'm a passionate Full Stack Developer (MERN stack) based in Egypt, dedicated to crafting dynamic and user-centric web applications. With a strong foundation in frontend technologies like HTML, CSS, and JavaScript, I excel in frameworks such as React.js for building interactive interfaces. My backend skills include Node.js and Express.js, complemented by MongoDB and MySQL for database management. I'm proficient in TypeScript for scalable applications and utilize Docker for seamless deployment. With expertise in Git for version control and Linux for server management, I'm committed to delivering robust and scalable solutions.
 
 ### 💼 Skills & Tools
 - **Frontend:** React.js, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, PHP (Laravel), MySQL, MongoDB
+- **Backend:** Node.js, Express.js, PHP (Laravel), MongoDB, MySQL
 - **Tools:** Git, GitHub, Docker, Linux, Postman
 
 ### 🌟 Highlights
-- Developed interactive and visually appealing UIs for projects like RestEATS and Dashboard admin.
-- Experienced in optimizing frontend performance and ensuring accessibility (A11y) standards.
-- Actively learning AWS Cloud technologies to expand my skill set.
+- Developed and deployed full-stack applications like RestEATS and Dashboard admin, ensuring high performance and scalability.
+- Proficient in backend development with Node.js and Express.js, integrating with MongoDB and MySQL databases.
+- Actively learning AWS Cloud technologies to enhance deployment and scalability capabilities.
 
 ### 🚀 Let's Connect!
-I'm eager to contribute my skills to innovative projects and teams. Whether you're looking to collaborate or explore opportunities, let's connect on [LinkedIn](https://www.linkedin.com/in/mostafa-shapan/) or [WhatsApp](https://wa.me/201013120886). Let's create remarkable web experiences together!
+I'm enthusiastic about contributing my skills to innovative projects and collaborative teams. Whether you're seeking to collaborate or explore opportunities, let's connect on [LinkedIn](https://www.linkedin.com/in/mostafa-shapan/) or [WhatsApp](https://wa.me/201013120886). Let's create impactful web experiences together!
 
 ---
 
@@ -46,6 +46,12 @@ I'm eager to contribute my skills to innovative projects and teams. Whether you'
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
 </td><td valign="top" width="33%">
 
 <br/>  
@@ -59,5 +65,5 @@ I'm eager to contribute my skills to innovative projects and teams. Whether you'
 
 ## Summary
 
-I'm Mostafa Shaban, a dedicated Frontend Developer with a passion for crafting engaging and accessible web applications. My journey includes projects like RestEATS and Dashboard admin, where I've demonstrated proficiency in React.js, TypeScript, and responsive design frameworks like Bootstrap and Tailwind CSS. I thrive in collaborative environments, leveraging my skills in Git, Docker, and backend technologies like Node.js and PHP. Let's collaborate and create impactful web experiences together!
+I'm Mostafa Shaban, a dedicated Full Stack Developer specializing in the MERN stack. With extensive experience in frontend development using React.js and backend expertise in Node.js and Express.js, I've delivered robust and scalable web applications like RestEATS and Dashboard admin. My skills extend to database management with MongoDB and MySQL, ensuring high performance and efficient data handling. I'm committed to leveraging technology to create impactful web solutions. Let's collaborate and build innovative web experiences together!
 
