@@ -1,17 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&duration=4500&pause=500&color=188FA7FF&width=460&lines=Hello+there%2C+nice+to+see+you+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&lines=Hello+there%2C+nice+to+see+you+here!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<div>
-  <p>Greetings! I'm Mostafa shaban, a passionate Frontend developer based in Egypt. with expertise in HTML, CSS, JavaScript, Accessibility (A11y), TailwindCSS,Bootstrap, React, Git and GitHub,linux,Docker.</p>
-  <p> I enjoy making user-friendly designs that work well on different devices, turning ideas into visually appealing and functional web solutions.</p>
-  <p>Passionate about web development or just want to connect? Feel free to reach out! Let's connect and create amazing web experiences together.</p>
-</div>  
-  
+## Hi there! 👋 I'm Mostafa Shaban
 
-<br/>  
+I'm a passionate Frontend Developer based in Egypt, specializing in creating dynamic and user-centric web applications. With a solid foundation in HTML, CSS, and JavaScript, I excel in frameworks like React.js and have experience with Bootstrap for responsive design. My expertise extends to TypeScript for scalable applications and Git for version control. I thrive on turning complex ideas into intuitive interfaces and enjoy collaborating to deliver exceptional user experiences.
 
+### 💼 Skills & Tools
+- **Frontend:** React.js, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, PHP (Laravel), MySQL, MongoDB
+- **Tools:** Git, GitHub, Docker, Linux, Postman
 
-## Languages and tools 👨‍💻
+### 🌟 Highlights
+- Developed interactive and visually appealing UIs for projects like RestEATS and Dashboard admin.
+- Experienced in optimizing frontend performance and ensuring accessibility (A11y) standards.
+- Actively learning AWS Cloud technologies to expand my skill set.
+
+### 🚀 Let's Connect!
+I'm eager to contribute my skills to innovative projects and teams. Whether you're looking to collaborate or explore opportunities, let's connect on [LinkedIn](https://www.linkedin.com/in/mostafa-shapan/) or [WhatsApp](https://wa.me/201013120886). Let's create remarkable web experiences together!
+
+---
+
+## Languages and Tools 👨‍💻
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -41,14 +50,14 @@
 
 <br/>  
 
+## Where to Find Me 🚀
 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-shapan/)
+- Reach out via [WhatsApp](https://wa.me/201013120886)
 
+---
 
-## Where to find me  🚀
+## Summary
 
-<a href="https://www.linkedin.com/in/mostafa-shapan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a>
-<a href="https://wa.me/201013120886" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp />
-</a>
+I'm Mostafa Shaban, a dedicated Frontend Developer with a passion for crafting engaging and accessible web applications. My journey includes projects like RestEATS and Dashboard admin, where I've demonstrated proficiency in React.js, TypeScript, and responsive design frameworks like Bootstrap and Tailwind CSS. I thrive in collaborative environments, leveraging my skills in Git, Docker, and backend technologies like Node.js and PHP. Let's collaborate and create impactful web experiences together!
+
