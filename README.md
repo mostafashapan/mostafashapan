@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer (MERN stack) based in Egypt, dedicated to 
 
 ### 💼 Skills & Tools
 - **Frontend:** React.js, TypeScript, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, PHP (Laravel), MongoDB, MySQL
+- **Backend:** Node.js, Nest.js, Express.js, PHP (Laravel), MongoDB, MySQL
 - **Tools:** Git, GitHub, Docker, Linux, Postman
 
 ### 🌟 Highlights
